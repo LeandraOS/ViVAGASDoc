@@ -23,11 +23,12 @@ Com base nessa problématica surgiu a Vitrine de Vagas, o ViVAGAS. Será um sist
   - Campo para adição de link para formulário de aplicação na vaga.
 
 ### Para os alunos
-- Exibição de vagas
+- Exibição do catálogo de vagas
   - O aluno terá acesso ao link do formulário google enviado pelo professor, para que possa aplicar para a vaga. 
 - Filtro de vagas por áreas (frontend, backend, dados e etc)
+- Filtro por tecnologia requerida (react.js, angular, python e etc)
 - Newsletter
-  - O aluno poderá preencher um campo com o seu email acadêmico, para receber um email sempre que houver uma vaga nova.
+  - O aluno poderá preencher um campo com o seu email acadêmico, para receber um email de alerta sempre que houver uma vaga nova.
 
 ## Tecnologias
 - JavaScript
@@ -35,3 +36,7 @@ Com base nessa problématica surgiu a Vitrine de Vagas, o ViVAGAS. Será um sist
 - Styled Components
 - Node.js
 - firebase
+
+## Deploy
+- O deploy do sistema poderia ser feito utilizando alguma VM do LSD.
+- Poderia ser hospedado no domínio ufcg.edu.br
